@@ -5,37 +5,37 @@
   "id" : 1 ,
   "nameSong" : "Em la ba noi cua anh",
   "nameSingle" :"Trong Hieu",
-  "url" : "https://pixabay.com/music/upbeat-brain-implant-cyberpunk-sci-fi-trailer-action-intro-330416/"
+  "url" : "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-1.mp3"
 } ,
 {
     "id" : 2 ,
     "nameSong" : "My Everything",
     "nameSingle" :"Tien tien",
-  "url" : "https://pixabay.com/music/upbeat-brain-implant-cyberpunk-sci-fi-trailer-action-intro-330416/"
+  "url" : "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-1.mp3"
   } ,
   {
     "id" : 3 ,
     "nameSong" : "Sao em vo tinh",
     "nameSingle" :"Jack",
-  "url" : "https://pixabay.com/music/upbeat-brain-implant-cyberpunk-sci-fi-trailer-action-intro-330416/"
+  "url" : "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-1.mp3"
   } ,
   {
     "id" : 4,
     "nameSong" : "Dung lam trai tim anh dau",
     "nameSingle" :"Son Tung MTP",
-  "url" : "https://pixabay.com/music/upbeat-brain-implant-cyberpunk-sci-fi-trailer-action-intro-330416/"
+ "url" : "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-1.mp3"
   } ,
   {
     "id" : 5 ,
     "nameSong" : "Viet nam toi",
     "nameSingle" :"Jack",
-  "url" : "https://pixabay.com/music/upbeat-brain-implant-cyberpunk-sci-fi-trailer-action-intro-330416/" 
+ "url" : "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-1.mp3"
   } ,
   {
     "id" : 6 ,
     "nameSong" : "Love Yourself",
     "nameSingle" :"Justin Bieber ",
-  "url" : "https://pixabay.com/music/upbeat-brain-implant-cyberpunk-sci-fi-trailer-action-intro-330416/"
+ "url" : "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-1.mp3"
   } 
 ]
 }

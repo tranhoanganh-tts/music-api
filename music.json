@@ -5,37 +5,43 @@
   "id" : 1 ,
   "nameSong" : "Em la ba noi cua anh",
   "nameSingle" :"Trong Hieu",
- "url" : "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-1.mp3"
+ "url" : "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-1.mp3",
+ "img" :"https://cdn11.dienmaycholon.vn/filewebdmclnew/public/userupload/files/Image%20FP_2024/avatar-cute-1.jpg"
 } ,
 {
     "id" : 2 ,
     "nameSong" : "My Everything",
     "nameSingle" :"Tien tien",
- "url" : "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-1.mp3"
+ "url" : "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-1.mp3",
+ "img" :"https://cdn11.dienmaycholon.vn/filewebdmclnew/public/userupload/files/Image%20FP_2024/avatar-cute-2.jpg"
   } ,
   {
     "id" : 3 ,
     "nameSong" : "Sao em vo tinh",
     "nameSingle" :"Jack",
- "url" : "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-1.mp3"
+ "url" : "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-1.mp3",
+ "img" :"https://cdn11.dienmaycholon.vn/filewebdmclnew/public/userupload/files/Image%20FP_2024/avatar-cute-3.jpg"
   } ,
   {
     "id" : 4,
     "nameSong" : "Dung lam trai tim anh dau",
     "nameSingle" :"Son Tung MTP",
- "url" : "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-1.mp3"
+ "url" : "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-1.mp3",
+ "img" :"https://cdn11.dienmaycholon.vn/filewebdmclnew/public/userupload/files/Image%20FP_2024/avatar-cute-4.jpg"
   } ,
   {
     "id" : 5 ,
     "nameSong" : "Viet nam toi",
     "nameSingle" :"Jack",
- "url" : "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-1.mp3"
+ "url" : "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-1.mp3",
+ "img" :"https://cdn11.dienmaycholon.vn/filewebdmclnew/public/userupload/files/Image%20FP_2024/avatar-cute-5.jpg"
   } ,
   {
     "id" : 6 ,
     "nameSong" : "Love Yourself",
     "nameSingle" :"Justin Bieber ",
- "url" : "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-1.mp3"
+ "url" : "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-1.mp3",
+ "img" :"https://cdn11.dienmaycholon.vn/filewebdmclnew/public/userupload/files/Image%20FP_2024/avatar-cute-7.jpg"
   } 
 ]
 }
